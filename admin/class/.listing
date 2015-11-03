@@ -1,0 +1,15 @@
+drwxr-xr-x    2 msimple    msimple          4096 Jul 24 16:45 .
+drwxr-xr-x    6 msimple    msimple          4096 Jul 13 15:49 ..
+-rw-r--r--    1 msimple    msimple           964 Jul 20 08:02 class.capacitacion.php
+-rw-r--r--    1 msimple    msimple           728 Jul 20 08:02 class.config.php
+-rw-r--r--    1 msimple    msimple          3413 Jul 20 08:02 class.emprendimiento.php
+-rw-r--r--    1 msimple    msimple          2485 Jul 20 08:02 class.empresas.php
+-rw-r--r--    1 msimple    msimple           948 Jul 20 08:02 class.file.php
+-rw-r--r--    1 msimple    msimple          2061 Jul 20 08:02 class.galeria.php
+-rw-r--r--    1 msimple    msimple             0 Jul 20 08:02 class.get.php
+-rw-r--r--    1 msimple    msimple          2496 Jul 20 08:02 class.integrantes.php
+-rw-r--r--    1 msimple    msimple           100 Jul 20 08:02 class.post.php
+-rw-r--r--    1 msimple    msimple          1137 Jul 20 08:02 class.utils.php
+-rw-r--r--    1 msimple    msimple          3039 Jul 24 16:58 db.constants.php
+-rw-r--r--    1 msimple    msimple            23 Jul 24 16:46 info.php
+-rw-r--r--    1 msimple    msimple          1308 Jul 20 08:02 pagination.php

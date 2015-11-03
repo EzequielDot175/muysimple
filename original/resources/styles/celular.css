@@ -1,0 +1,1699 @@
+
+.nav-mobile{
+        background:url(../images/icons.png) no-repeat;
+		background-position:-158px -88px;
+        float: right;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        right: 0;
+        top:0;
+ }   
+
+ /* Estilos #nav-mobile y lo ocultamos */
+    #nav-mobile{
+        display:none;
+        width: 42px;
+        height: 34px;
+        position: absolute;
+        right:22px;
+        top:40px;
+}   
+        /* Agregaremos esta clase a #nav-mobile, cuando el menu mobile haya sido desplegado */
+#nav-mobile.nav-active{
+        opacity: 1;
+}
+
+@media only screen and (max-width: 680px), only screen and (max-device-width: 680px){
+	body{
+		overflow-x:hidden;
+}
+
+.BotoneraMenu {
+position: absolute;
+z-index: -1;
+}		
+
+.row,.col{
+	width:100%;
+	max-width:680px;
+}
+
+.col + .col{
+	margin:0px;
+}
+
+.Col_1Mobile{
+	max-width:680px;
+	margin:0 auto !important;
+}
+
+.Col_2Mobile{
+	width:320px;
+	margin:0 auto;
+}
+
+
+.Col_Mobile_Mitad{
+	width:50%;
+	height:150px;
+	}
+
+
+
+.col_2 h1{ 
+	font-size:20px;
+	line-height:25px;
+}
+
+
+.TituloIndex {
+	text-align: left;
+	width:201%;
+	line-height:30px;
+}
+
+.AlinearMobile{
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+}
+
+.ColMobile{
+	float:none;
+	padding:0px 0px 25px 0px;
+	margin:25px auto;
+	width:250px;
+}
+
+.margin-col:nth-child(3){margin:25px auto;}
+
+.ver-novedades {
+	margin: 31px auto;
+	display: inline-block;
+	clear: both;
+	float: none;
+	margin-left: 50%;
+	position: relative;
+	left: -93px;
+}
+
+.btn_Online{
+	width:180px;
+	height:72px;}
+
+
+.hacer-consulta {
+	/*margin: 31px auto;*/
+	display: inline-block;
+	clear: both;
+	float: none;
+	background:#009933;
+	margin-top:0px;
+	margin-left:9px;
+	
+}
+
+
+.hacer-consulta:hover {
+	display: inline-block;
+	clear: both;
+	float: none;
+	
+}
+
+/*.ver-novedades:hover{
+	margin:50px auto;
+}*/
+
+
+
+.ConoceCursos{
+	margin-top:25px ;
+	float:none;
+	margin-left:42% !important;
+}
+/*
+EPRESAS ASOCIADAS
+
+*/
+.TituloSubtitulo h1{
+	text-align:center;
+	color:#006633;
+}
+
+.TituloSubtitulo{
+	margin-left:67px;
+	width:175px;
+	padding:0px 0 15px 0;
+}
+.ContenedorLogos{
+	text-align:center;
+	margin:0 auto;
+	width:90%;
+}
+
+.HoverLogosEmpresas{
+	display:inline-block;
+	vertical-align:top;
+	float:none;
+	
+}
+
+.EmpresasAsociadas{
+	padding-bottom:90px;
+	padding-top: 20px;
+}
+
+.EmpresasAsociadas h1{
+	font-size:16px;
+	font-weight:500;
+	text-align:center;
+}
+
+.ListaEmpresas{
+	color:#333333;
+	margin:25px -54px 0px -82px;
+	line-height:25px;
+	clear:left;
+	padding-top:30px;
+}
+
+.ListaEmpresas ul li:nth-child(1), .ListaEmpresas ul li:nth-child(3), .ListaEmpresas ul li:nth-child(5){
+	list-style:none;
+	margin-left:25px;
+	text-align:center;
+}
+
+.ListaEmpresas ul li{
+	float:none;
+	text-align:center;
+}
+
+
+.ListaEmpresas ul{
+	padding:0px;
+	margin-top:0px;
+}
+
+.cabeza-notas{
+	width:100%;
+	overflow:hidden;
+	background:none;
+	border-top:0px;
+}
+
+
+/*
+
+HEADER CELULAR
+
+*/
+
+.Anular{
+	padding:0px;	
+	border:0px;
+}
+
+.SelectorDistintoHover:hover{
+	background-color:#669900;
+	border:0px;
+}
+
+.site-nav{
+	display:none;
+	margin-top:0px;
+}
+
+.site-logo {
+	position: relative;
+	display: block;
+	z-index: 200;
+	float: none;
+	margin: 6px auto; 
+	text-align: center;
+	width:115px;
+	height:115px;
+}
+.site-logo img{
+	width:115px;
+	height:115px;
+	float:none;
+}
+
+.social-media{
+	width:100px;
+	height:50px;
+	background:none;
+	position:absolute;
+	top:26px;
+	left:-7px;
+	padding:15px;
+	}
+
+
+.social-media a{
+	float:left;
+	clear:none;
+	width: 38px; 
+	height: 38px;
+	border-radius: 38px;
+	background-color: #666666;
+	margin:0px 4px 8px 0px;
+}
+
+
+/*--------------------------------------------*/
+
+.icon.smFb{
+	width: 8px;
+	height: 15px;
+	background-position: -116px 0;
+}
+
+.icon.smYt{
+	width: 23px;
+	height: 16px;
+	background-position: -133px -42px;
+}
+
+.social-media .smYt{ margin:10px 0px 0px 7px}
+
+
+  /* mostramos #nav-mobile */
+#nav-mobile{ 
+	display: block; 
+}
+
+    /* Fijamos nuestro nav en 100% ancho y dejamos de flotarlo  */
+.site-nav{
+	display:block;
+   width: 100%;
+}
+        /* Convertimos nuestra lista de enlaces en un menú horizontal */
+       
+ .site-nav ul li{
+	float:none;
+}           
+
+.site-nav ul{
+	/*-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.5);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.5);
+	box-shadow: 0 1px 2px rgba(0,0,0,.5);*/
+	max-height:0px;
+	background:#fff;
+	overflow:hidden;
+	margin:-115px 0px 0px 0px;
+	
+}			
+			
+/* estilos para los LI del menu */
+.site-nav li{
+	border-bottom:solid 1px #cccccc;
+	float:none;
+	margin:0px;
+	padding:0px;
+}
+
+.FlechaSubMenu{
+	background:url(../images/icons.png) no-repeat;
+	background-position:-137px -72px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9px;
+	text-transform:uppercase;
+	display:block;
+	height:9px;
+	width:11px;
+	float:right;
+	line-height:30px;
+	margin: 9px 31px 0px 0px;
+}
+
+.site-nav ul li:hover .FlechaSubMenu{
+	background-position:-146px -72px;
+}	
+ 
+ 
+ /* Quitamos el borde del ultimo item del menú */
+.site-nav li:first-child{ border-top:solid 1px #cccccc;}
+              
+.site-nav ul li a{
+     padding: 7px 0px 7px 10px ;
+	 width:100%;
+	 display:block;
+}
+/*
+.site-nav li a:hover{
+	background:#2a2d33; padding:0px;
+}
+*/
+
+
+.site-nav ul li:hover .Menu{
+	color:#FFF;
+	background-color:#669900;
+}	
+
+.site-nav ul li:hover{
+	color:#FFF;
+	background-color:#669900;
+}
+
+.btnTiendaCelular{
+	display:block;
+}
+
+.btnTiendaCelular:hover .SelectorNegroHover, .btnTiendaCelular:hover .btnHome{
+	background-color:#669900;
+	color:#fff;
+	text-transform:uppercase;
+}
+
+.marcado{
+	background-color:#fff;
+	color:#000;
+}
+
+.btnHome{
+	display:block;
+	text-transform:uppercase;
+	color:#000;
+}
+
+
+/* Agregamos una animación al despligue del menú */
+	  
+.site-nav ul.open-menu{
+     max-height: 413px !important;
+	 padding-top:125px !important;
+    -webkit-transition: max-height .4s;
+     -moz-transition: max-height .4s;
+     -ms-transition: max-height .4s;
+      -o-transition: max-height .4s;
+      transition: max-height .4s;
+}
+
+
+
+
+.site-nav ul li:hover ul{
+	display:block;
+}
+
+.LaFundacion:hover:after{
+	display:none;
+}
+
+/*.site-nav ul li:hover ul{
+	display:none;}*/
+.EmprendimientosMobile{
+	display:block;}
+
+.MobileBtn_Suscribirse{
+	margin:25px auto;
+	float:none;
+}
+
+
+.site-nav .LaFundacionMobile ul,.site-nav .EmprendimientosMobile ul{
+	display:block;
+	max-height:85px;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	position:static;
+	background:#fff;
+	overflow:hidden;
+	color:#000;
+}
+
+.LaFundacionMobile{
+	display:block;
+}
+
+/*.site-nav ul li ul.open-Submenu{
+     max-height: 400px !important;
+     -webkit-transition: max-height .4s;
+     -moz-transition: max-height .4s;
+     -ms-transition: max-height .4s;
+      -o-transition: max-height .4s;
+      transition: max-height .4s;
+}*/
+
+
+.site-nav ul li ul li a{
+	position:relative;
+	float:none;
+	text-transform:none;
+	font-size:14px;
+	margin:0px;
+	padding:7px 0px 7px 15px;
+	width:300px;
+	background:#fff;
+	color:#000;
+	line-height:normal;
+	text-align:left;
+}
+
+.TinedaSubmenu{
+	padding-right:50px;
+}
+
+
+.site-nav ul li ul li:hover{
+	background:#e9e9e9;
+	color:#FFF;
+}
+
+	
+.site-nav ul li ul li:hover a{
+	background:#e9e9e9;
+	color:#000;}
+
+
+
+.site-nav ul li ul li {
+	padding:0px;
+	border-bottom:solid 1px #cccccc;
+	font-size:12px;
+}	
+
+
+.site-nav ul li ul li:last-child{ border-bottom: 0px;}
+
+/* 
+
+INDEX CELULAR MODULO QUIENES
+
+*/
+
+
+.slider_principal{
+	height:343px;
+}
+
+.Testimonioswiper-container {
+	height:585px;
+}
+
+.PlacaDonaciones{
+	background:url(../images/sliderprincipal/imageMobile_001.jpg) no-repeat;
+	height:406px;
+	padding-top:30px;
+}
+
+.testimonio_1{
+	background:url(../images/slidertestimonial/imageMobile_005.jpg) no-repeat;
+	height:585px;
+}
+
+.testimonio_2{
+	background:url(../images/slidertestimonial/image_Mobile006.jpg) no-repeat;
+	height:585px;
+}
+
+.testimonio_3{
+	background:url(../images/slidertestimonial/imageMobile_007.jpg) no-repeat;
+	height:585px;
+}
+
+.Text-Donaciones{
+	display:block;
+	text-align:center;
+	font-family: 'Gloria Hallelujah';
+	color:#FFF;
+	margin-top:75px;
+}
+.PlacaDonaciones h1:nth-child(1){
+	color:#9acb0d;
+}
+
+
+.Text-Donaciones h1{
+	margin-top:30px;
+	font-size:20px;
+}
+
+.slider_testimonios{
+	height:585px;
+}
+
+.arrow-left2, .arrow-right2 {
+	margin-top:-140px;
+}
+
+.TituloContenidoTestimonio{
+	margin-bottom:15px;}
+
+.quienes{
+	width:275px;
+	height:100px;
+	float:none;
+	margin:50px 0px 50px 0px;
+}
+
+
+.quienes:nth-child(2){
+	display:none;
+}
+
+.quienes:nth-child(3){
+	margin-left:0px;
+}
+
+
+#circulos{  margin:0px 0px 0px 0px;}
+
+.circulo{
+	border:solid 12px #669900;
+	margin:0px 0px 0px 16px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#669900;
+	cursor:pointer;
+}
+	
+.circulo:nth-child(2){
+    border:solid 12px #006633;
+	margin:0px 0px 0px 9px;
+}	
+.FormularioNone{
+	display:none;
+}
+
+.formulario_novedades{ width:100%;
+	margin:0 auto;
+	text-align:center;
+}
+
+
+/*.formulario_novedades button{ float:none;}*/
+
+
+/*
+FOOTER CELULAR
+*/
+
+
+.btnsFooter{
+	display:none;}
+
+.site-pie{
+	background:#333333;
+	position:relative;
+	padding:80px 0px 25px 0px;
+}
+
+.logoFooter{
+	position:absolute;
+	top:0px;
+	left:50%;
+	margin-top:-64px;
+	margin-left:-55px;
+}
+
+.contacto-data{
+	width:100%;
+}
+
+.data-ubicacion{
+	width:100%;
+	text-align:center;
+	font-size:14px;
+}
+
+.icon.MarcadorMapaCelular{
+	width: 13px;
+	height: 20px;
+	background-position: 0px -16px;
+} 
+
+.MarcadorMapaCelular{
+	float:left;
+	margin-left:50%;
+	position:relative;
+	left:-6px;
+}
+
+.ImagenTelefono, .ImagenMail{
+	margin:0 0 10px 50%;
+	position:relative;
+	left:-13px;
+}
+
+.espacio{
+	text-align:center;
+	padding-top:11px;
+	width:100%;
+}
+
+.ubicacion{
+	padding:0px 0px 0px 0px;
+	width:100%;
+}
+
+.CentrarMobile{
+	margin:0 auto;
+}
+
+.LocalizacionMobile{
+	display:block;
+	background:#CCC;
+	padding:0;
+	margin:0;
+}
+
+.MobileSocial-media{
+	position:absolute;
+	width:50px;
+	height:50px;
+	top:35px;
+	right:24px;
+}
+
+
+/*
+CONTENIDO TESTIMONIOS
+
+*/
+
+.Contenido-Testimonmios{
+	text-align:center;
+}
+
+.Contenido-Testimonmios .FotoTestigo{
+	float:none;
+	margin:0px ;
+}
+
+.declaracion{
+	position:relative;
+	width:85%;
+	padding:5px 15px 5px 15px;
+	float:none;
+	font-size:16px;
+	color:#FFF;
+	line-height:normal;
+	margin:0px auto;
+	background-color:rgba(0,0,0,0.4);
+}
+
+.icon.comillas{
+	margin:0px;
+}
+
+/*
+
+SECCION CAPACITARTE
+
+*/
+
+.CabeceraMobile{
+	height:44px;
+	text-align:center;
+	background:#e6e8e7;
+	display:block;
+	padding-top:33px;
+	text-transform:uppercase;
+	box-shadow: 0 4px 0 0 rgba(255, 255, 255, .4);
+}
+
+.titulo-capacitarse{
+	font-size:20px;
+	margin-left:8px;
+}
+
+
+
+.RequisitosFondos{
+	margin-left:0;
+	margin-bottom:50px;
+	padding:26px 34px 0px 15px;
+}
+
+.requisitos-data{
+	margin:0px;
+}
+
+.Mobilerequisitos-data{
+	margin-left:0px;
+	padding:25px 0px 25px 0px;
+	width:253px;
+}
+
+/*.CursosImagenes{
+	height:46px;
+	margin:0px;
+}*/
+
+.CursosDatos h2{
+	display:block;
+	width:271px;
+	margin:0px auto;
+	border-bottom:0px;
+}
+
+.CursosDatos .LinkCursos{
+	display:block;
+	color:#000;
+	padding:16px;
+	border-bottom:solid 1px #e5e5e5;}
+
+.CursosDatos .LinkCursos:hover{
+	background:#99cc00;
+	color:#FFF;
+}
+
+
+.titulosCursos{
+	margin:0px;
+	text-align:center;
+}
+
+.CapacitarceCursosDatos{
+	padding:10px 0px 0px 0px;
+	margin:0 auto;
+}
+
+.CapacitarceCursosDatos:nth-child(1){
+	margin-top:2px;
+}
+	
+.CursosDatos:nth-child(2){
+	margin-bottom:-9px;}
+
+.SacarSeccionCelular{
+	display:none !important;
+}
+
+.CursosDatos {
+height: auto;
+overflow: hidden;
+text-align: center;
+padding: 0px;
+margin-top:10px;
+}
+
+
+.slider-data {
+width: 75%;
+margin: 214px 0px 0px 11px;
+padding: 13px 12px 9px 30px;
+float: none;
+}
+
+.peluqueria{
+	padding:19px 0px 12px 57px;
+}
+
+.DiplomaCapacitacion{ padding:18px 0px 21px 34px;}
+.slider-data h1{
+	font-size:30px;
+	line-height:41px;
+}
+
+.CirculoMobile{
+	width:300px;
+	float:left;
+	padding-top:50px;
+}
+
+
+
+.DetalleOficio {
+padding-top: 20px;
+}
+
+.Text-Curso {
+	width:212px !important;
+	text-align:left;
+	margin-left:50px;
+}
+.Text-Curso p{
+	margin:0px;
+	width:auto;
+}
+.DetalleOficio .ImagenCursos {
+	margin-bottom:25px;
+}
+
+.VideoCapacitacion{
+	width:281px;
+	height:167px;
+	margin-top:21px;
+}
+
+.MediaComentarios {
+	border: solid 1px #dddddd;
+	padding: 10px;
+	position: relative;
+	margin: -46px 22px 24px 90px;
+	float: left;
+	text-align:left;
+	width:62%;
+	max-width:680px;
+}
+
+.MediaAvatar {
+margin: 25px 0px 0px 0px;
+clear: left;
+}
+
+.CabeceraComentarios{
+	margin:50px 0px 25px 0px;
+}
+
+/*
+
+TIENDA MOBILE
+
+*/
+
+
+.FondoSlideTienda_1{
+	background:url(../images/slidertienda/imageTienda_012.jpg) no-repeat;
+	width:100%;
+	height:343px;
+}
+
+.FondoSlideTienda_2{
+	background:url(../images/slidertienda/imageTienda_013.jpg) no-repeat;
+	width:100%;
+	height:343px;
+}
+
+.FondoSlideTienda_3{
+	background:url(../images/slideremprendimiento/imageMobile_013.jpg) no-repeat;
+	width:100%;
+	height:343px;
+}
+
+
+.LogoTiendaMobile{
+	display:block;
+	margin:100px auto;
+}
+
+
+.LaTiendaIntro{
+	text-align:center !important;
+	width:100%;
+	max-width:680px;
+}
+
+.LaTiendaIntro p{
+	width:200px;
+	margin:0 auto;
+	margin-top:25px;
+	display:inline-block !important;
+}
+
+.productos .TituloProductos{
+	font-size:20px;
+	line-height:25px;
+	margin:15px 0px 43px 38px;
+}
+
+.CompartirFace{
+	width:168px;
+	margin:15px auto;
+	display:inline-block;
+}
+
+.LaTiendaIntro h1 {
+padding-bottom: 10px;
+border-bottom: solid 3px #000000;
+width:193px;
+margin:0 auto;
+text-align:center;
+
+
+
+}
+
+
+.MobieleSlider_Productos{
+	display:block;
+	height: 342px;
+}
+
+.ProductosSwiper-container{
+	height:302px;
+}
+
+.MobieleSlider_Productos .arrow-left2, .MobieleSlider_Productos .arrow-right2 {
+margin-top: -45px;
+}
+
+.ProductosSwiper-container .Col_1Mobile{
+	width:250px;
+}
+
+.NotasTienda{
+	width:280px;
+	margin:0px 0px 20px 18px !important;
+}
+
+.NovedadesDelaTienda .NotasTienda{
+	margin-bottom:25px;
+}
+
+.NotasTienda img {
+	width:282px;
+	height:190px;
+}
+
+.NovedadesDelaTienda h1 {
+ 	margin: 0px 0px 0px 0px; 
+}
+
+.ubicacionTienda h2 {
+text-align: center;
+}
+
+.contacto-dataTienda{
+	margin:0 auto;
+	text-align:center;
+	width:276px;
+}
+
+
+
+.datos-espacio{
+	margin-left:0px;
+	float:left;
+	
+}
+
+.datos-espacio:nth-child(4) {
+	margin-top: 0px;
+	padding: 0;
+}
+
+.MarcadorMapaTienda {
+	margin: 11px 14px 0px 139px;
+}
+
+.ImagenReloj {
+	margin: 0px 15px 0px 129px;
+}
+
+
+.icon.smFbMobile{
+	float:left;
+	background-position:0px 0px;
+	width:8px;
+	height:16px;
+	margin: 12px 0px 0px 16px
+	}
+
+
+
+/*
+
+EMPRENDIMINETOS
+
+*/
+
+.site-emprendimiento h1,.site-emprendimiento h2  {
+	font-size: 20px;
+	margin-bottom: 28px;
+	line-height: 25px;
+	text-align: left;
+	width: 90%;
+	margin: 25px auto;
+
+}
+
+.Vinculo-Tienda{
+	margin-left:119px;
+}
+
+
+.site-emprendimiento img{
+	width:95%;
+	height:118px;
+}
+
+.VisitarTienda .Text-TiendaFundacion {
+	width: 86%;
+	text-align: left;
+	margin-left: 11px;
+}
+
+.VideoEmprendimiento{
+	width:282px;
+	height:167px;
+}
+
+.MobileVisitarLaTienda{
+	margin:25px auto;
+}
+
+.MobileVisitarLaTienda:hover{
+	margin:25px auto;
+}
+
+.margin-col {
+	margin: 0px 0px 0px 0px; 
+}
+
+.margin-col:nth-child(4) {
+margin: 0px 0px 50px 0px;
+padding-bottom: 40px;
+}
+
+.MobileTituloEmprendimiento{
+	color:#009933;
+	text-transform:uppercase;
+}
+
+.icon.MobileSmFb{
+	width:8px;
+	height:16px;
+	background-position:-116px 0px;
+	float:left;
+}
+
+.icon.MobileSmYt{
+	width:24px;
+	height:16px;
+	background-position:-137px -25px;
+	float:left;
+}
+
+.MobileSocial-media a {
+	float: left;
+	clear: none;
+	width: 5px;
+	height: 15px;
+	border-left:0px ;
+	margin: 0px 4px 8px 0px;
+	padding: 5px;
+}
+
+.MobileSocial-media a:nth-child(2) {
+	border-left: solid 1px #999999;
+}
+.PlacaEmprendimineto {
+	width:80%;
+}
+
+.icon.FlechaDonaciones {
+	width: 41px;
+	height: 34px;
+	float: left;
+	background-position: -34px -59px;
+	margin-left:45%;
+}
+
+/*
+NOVEDADES MOBILE
+
+*/
+
+.novedades{
+	padding-bottom:0px;
+}
+
+.notas{
+	margin-bottom:50px;
+	margin: 0 0 20px 18px!important;
+	width:280px;
+	
+}
+
+.NotasIndex .nota:nth-child(odd){
+	float:right;
+	clear:right;}
+
+.NotasIndex .nota:nth-child(even){
+	float:left;
+	clear:left;
+}
+
+
+.TituloSubtitulo {
+	margin-top: 16px;
+}
+
+
+
+.EncabezadoNovedades:nth-child(2){margin-right:0px;}
+
+.HeaderNovedades {
+	box-shadow: 0 4px 0 0 rgba(255, 255, 255, .4);
+}
+
+.EncabezadoNovedades h1 {
+	margin-top:25px;
+}
+
+.MobilePopInText{
+	float:left;
+	margin:0px;
+}
+
+
+.datos-novedades {
+	margin-top: 2px;
+	width: 224px;
+	height: 35px;
+}
+
+.FormPopin .PopInCabezaFormulario {
+	background: #666666;
+	padding: 0px;
+	color: #FFF;
+	width:100%;
+	max-width:200px;
+	padding:0px 164px 0px 52px;
+}
+
+.PopInformularioContacto {
+	width:320px;
+}
+
+.PopInEmail {
+	margin-left: 0px;
+	margin-right: 50px;
+}
+
+.CerrarPopIn {
+	position: absolute;
+	bottom: -5px;
+	right: 39px;
+	width: 82px;
+	height: 50px;
+}
+
+.FormPopin {
+	margin: 5% auto;
+	width: 100%;
+	max-width:304px;
+	height: 563px;
+	background: #FFF;
+	position: relative;
+}
+
+
+.PopInrefresh {
+ 	margin-left: 0px; 
+}
+
+.PopIncodigo {
+	width: 198px;
+}
+
+.PopInDatosRequeridos {
+	margin: 0px 0px 0px 0px;
+}
+
+.PopInintroducir-codigo {
+	width: 81px;
+}
+
+.Btn_SuscribirHome{
+ margin: 15px auto;
+display: inline-block;
+vertical-align: top;
+float: none;
+}
+
+
+.PopInSuscribite {
+	margin: 20px 26px 0px 0px;
+}
+
+.PopInText {
+	margin: 0px 0px 18px 26px;
+}
+
+.PopInText:nth-child(1){
+	text-align: center;
+	margin-left: 0px;
+	font-size: 16px;
+}
+
+
+.PopInText:nth-child(5){margin:0px 0px 4px 26px;}
+
+.FormPopin .PopInCabezaFormulario h1 {
+	padding: 9px 0px 9px 0px;
+	text-align: center;
+	line-height: 27px;
+	font-size:20px;
+}
+
+.TituloSite-QuienesSomos{
+	margin-left:15px;
+}
+
+.TituloSecundarioQuienes {
+	margin-bottom:25px;
+}
+
+.MobileSobreFundacion {
+	margin: 10px 25px 25px 10px;
+	width: 280px;
+}
+
+.text-QuienesSomos{
+	width:100%;
+}
+.VideoQuienesSomos{
+	width:289px;
+	height:158px;
+	margin-top:25px;
+	margin-left:7px;
+}
+
+.SocialQuienesSomos {
+	margin:15px 0px 0px 89px;
+}
+
+/*.ContenedorCirculos{
+	margin:48px 0px 0px 8px !important;}*/
+
+.FlechaCompartir{
+	width:20%;
+	max-width:56px;
+	height:20%;
+	max-height:100px;
+}
+
+.QuienesSomosSatos-novedades {
+	width: 258px;
+	float: left;
+}
+
+.codigo {
+width: 231px;
+border: solid 1px #e4e4e4;
+}
+
+.CabezaFormulario {
+	width:auto;
+	padding: 25px 10px 10px 3px;
+}
+
+.QuererAyudar {
+padding: 25px 0 45px 0;
+
+}
+
+
+
+.InfoComoAyudar{
+	width:95%;
+	margin:0 auto;
+	text-align:center;
+}
+
+
+.dataComoAyudar:nth-child(2) {
+	margin-left: 0px;
+}
+
+.dataComoAyudar{
+	margin:0 auto !important;
+	max-width:90%;
+	display:inline-block;
+	float:none;
+	text-align:left;
+	vertical-align:top;
+}
+
+.Donaciones{
+	text-align:center;
+	padding-bottom: 0!important;
+}
+
+.Colaboraciones{
+	margin:0px auto !important;
+	float:none;
+	display:inline-block;
+	padding:6px 25px 40px 25px;
+	margin:0px 15px 25px!important;
+	vertical-align:top;
+}
+
+
+
+.ComoAyudar h1{
+	margin-top:25px;
+	margin-left:3%;
+}
+
+.InfoComoAyudar h1{
+	font-size:30px;
+}
+
+.formularioAyudar {
+	width:280px;
+	padding:10px 0px 10px 10px; 
+}
+
+.formulario_novedades{
+	float:right;
+	clear:right;}
+	
+.ComoAyudar{
+	float:left;}
+
+
+.MobileFormNovedades{
+	display:block;}
+
+
+
+/*
+
+REVISTA
+
+*/
+.site-Revista {
+	margin-top: 0px; 
+	padding-bottom: 104px;
+}
+
+.site-Revista .noticia {
+	padding-bottom: 55px;
+	margin: 25px 0 20px 18px!important;
+	width: 300px;
+	vertical-align: top;
+	display: inline-block;
+	float: none;
+}
+
+.site-Revista .RevistaTitulo{
+	margin-left:60px;
+}
+
+.noticia-imagen img{
+	width:282px;
+	height:236px;
+}
+
+.noticia-imagen {
+ 	float:none; 
+}
+
+.noticia-data {
+	float: right;
+	width: 300px;
+	margin-left: 0px;
+}
+ .noticia-data .noticia-titulo a {
+	line-height:10px;
+}
+
+.slider_productos{
+	margin-left:24px !important;}
+
+.ProductosSlider-button.right {
+	right: 0px;
+	left: auto;
+}
+
+.noticiasMedia {
+	right: 18px;
+}
+
+.RevistaMobileTitulo {
+	font-family: 'Gloria Hallelujah';
+	font-size: 30px;
+	color: #006633;
+	display:block;
+	font-size:20px;
+	margin:0px 0px 42px 48px;
+}
+
+
+/*NOVEDADES DETALLE*/
+
+
+.site-DetalleRevista {
+	margin-top: 30px;
+	padding-bottom: 101px;
+}
+
+.site-DetalleRevista .TituloNovedadesDetalle {
+	font-family: 'Gloria Hallelujah';
+	font-size: 30px;
+	color: #006633;
+	display:block;
+	margin:25px 0px 25px 60px;
+}
+
+
+.NovedadImagen{
+	width:455px;
+	height:344px;
+	background:#999;
+}
+
+.btnNovedadSuscribirse{
+	margin:70px 0px 0px 90px;
+	float:none;
+}
+
+.cabeza-notas h2, .NovedadesDetallecabeza-notas h2 {
+	font-size: 20px;
+	margin: 18px 0px 0px 5px;
+	line-height: 25px;
+}
+
+.TituloNotaDetalle{
+	width: 265px;
+}
+
+.DetalleNoticiasMedia {
+	top: 100%;
+	left: 50%;
+	margin-top:-101px;
+	margin-left: -41px;
+}
+
+.NovedadImagen{
+	width:285px;
+	height:236px;
+	background:#999;
+}
+
+.RevistaMedia{
+	width:282px;
+	height:234px;
+}
+
+.RevistaNoticiasMedia{
+	right:0px;
+}
+.noticia{
+	padding-bottom:0px;
+}
+
+#CapacitarseEsMuySimple{
+	text-align:center;}
+
+.requisitos{
+float:none;
+display: inline-block;
+margin: 0px 15px 0px 8px!important;
+vertical-align: top;
+width:250px;
+vertical-align:top;
+text-align:left;
+}
+
+.CursosImagenes{
+/*	display:inline-block;
+*/	width:300px;
+	height:50px;
+	float:left !important;
+	margin:0px;
+	padding:0px;
+}
+
+.CapacitacionTestiomonio{
+	text-align:center;}
+
+.CapacitacionTestiomonio h2{
+	margin:25px 10px 25px 0px;}
+
+.DetalleOficio img{
+	float:left;
+	margin-left:25px;}
+
+
+.ubicacionTienda{
+	width:100%;
+	max-width:300px;
+	margin-top:50px;
+	}
+
+.MobileMediaFooterTienda{
+	position:absolute;
+	top:-60px;
+	left:118px;}
+
+.MobileMediaFooterTienda a {
+	float: left;
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	background-color: white;
+	margin-bottom: 8px;
+	margin-left: 6px;
+}
+
+.FormasContacto{
+	text-align:center;
+	width:281px;
+	display:inline-block;}
+
+.Contenedor-Emprender{
+	width:100%;
+	max-width:600px;
+	text-align:center !important;}
+
+.cursos{
+	padding-bottom: 30px!important;
+}
+.cursos .ConoceCursos{
+	margin-bottom: 0!important;
+}
+
+.HojaContacto .CabezaHojaContactanos h1{
+	font-size: 22px;
+	font-weight: normal;
+	line-height: 24px;
+	margin-bottom: 15px;
+}
+.HojaContacto .formularioContacto{
+	width: 100%;
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.HojaContacto .site-Contacto{
+	margin-bottom: 20px;
+}
+.HojaContacto .site-Contacto span{
+	display: block;
+	text-align: left;
+	clear: both;
+}
+.HojaContacto .site-Contacto textarea,
+.HojaContacto .site-Contacto input[type="text"]{
+	width: 100%;
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	clear: both;
+}
+.HojaContacto .site-Contacto textarea{
+	height: 100px;
+}
+
+.HojaContacto .Type-code.capcha{	
+	font-size: 12px;
+	float: left;
+}
+.HojaContacto .introducir-codigo{	
+	width: 50px!important;
+	clear: none!important;
+}
+.HojaContacto img.codigo{	
+	width: 252px!important;
+}
+.HojaContacto .CabezaHojaContactanos,
+.HojaContacto .formulario_novedades,
+.HojaContacto .ContactoUbicacion{
+	padding: 0 10px;
+	box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.HojaContacto .ContactoUbicacion .MarcadorMapaVerdeClaro{
+	display: block; 
+	margin: 0 auto;
+	float: none;
+}
+.HojaContacto .dataContacto{
+	width: 100%;
+	margin: 0!important;
+}
+.HojaContacto .dataContacto h1{
+	text-align: center;
+	font-size: 1.5em;
+}
+.HojaContacto .dataContacto p{
+	text-align: center;
+	font-size: 1em;
+	padding:0 15px;
+}
+.HojaContacto .ContactoLLegar{
+	margin: 0 auto;
+	display: block;
+	float: none;
+}
+.HojaContacto .ImagenTelefonoVerde,
+.HojaContacto .ImagenMailVerde{
+	margin: 0 auto 10px;
+	display: block;
+	float: none;
+	clear: both;
+}
+.HojaContacto .ImagenTelefonoVerde ~ .dataContacto,
+.HojaContacto .ImagenMailVerde ~ .dataContacto{
+	text-align: center;
+}
+.HojaContacto .ImagenTelefonoVerde ~ .dataContacto span,
+.HojaContacto .ImagenMailVerde ~ .dataContacto span{
+	font-size: 20px;
+	font-weight: normal;
+}
+.HojaContacto #comoNosConosiste{
+	display: none;
+}
+
+.HojaContacto .CirculosContactos{
+	padding: 30px 10px 0;
+}
+.HojaContacto .CirculosContactos .circulo{
+	margin: 0 15px 0 0!important;
+}
+
+.HojaContacto .pieTitulo{
+	display: none;
+}
+
+.EmpresasAsociadas{
+	padding-top: 0!important;
+	text-align: center;
+}
+
+.EmpresasAsociadas .HoverLogosEmpresas{
+	display: block;
+	margin: 0 auto;
+}
+
+.EmpresasAsociadas .ListaEmpresas{
+	padding-top: 0;
+	margin-top: 10px;
+}
+
+.EmpresasAsociadas .ListaEmpresas li:nth-child(2n){
+	display: none;
+}
+.social-media.MediaContacto{
+	display: none;
+}
+
+}
+
+
+

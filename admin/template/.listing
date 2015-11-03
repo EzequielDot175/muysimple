@@ -1,0 +1,11 @@
+drwxr-xr-x    2 msimple    msimple          4096 Dec 11  2014 .
+drwxr-xr-x    6 msimple    msimple          4096 Jul 13 15:49 ..
+-rw-r--r--    1 msimple    msimple            37 Jul 20 08:02 footer.php
+-rw-r--r--    1 msimple    msimple          2228 Jul 20 08:02 header.php
+-rw-r--r--    1 msimple    msimple           190 Jul 20 08:02 nav-contacto.php
+-rw-r--r--    1 msimple    msimple           504 Jul 20 08:02 nav_capacitacion.php
+-rw-r--r--    1 msimple    msimple           454 Jul 20 08:02 nav_emprendimientos.php
+-rw-r--r--    1 msimple    msimple           312 Jul 20 08:02 nav_novedades.php
+-rw-r--r--    1 msimple    msimple           301 Jul 20 08:02 nav_revista.php
+-rw-r--r--    1 msimple    msimple           674 Jul 20 08:02 nav_testimonios.php
+-rw-r--r--    1 msimple    msimple           477 Jul 20 08:02 nav_tienda.php

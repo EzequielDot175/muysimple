@@ -1,0 +1,876 @@
+[01-Dec-2014 06:25:22 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:25:22 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 8
+[01-Dec-2014 06:25:22 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 9
+[01-Dec-2014 06:25:22 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:25:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:25:58 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:25:58 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 8
+[01-Dec-2014 06:25:58 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 9
+[01-Dec-2014 06:25:58 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:25:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:28:15 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:28:15 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 8
+[01-Dec-2014 06:28:15 America/Chicago] PHP Warning:  mysqli::real_escape_string() [<a href='mysqli.real-escape-string'>mysqli.real-escape-string</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 9
+[01-Dec-2014 06:28:15 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:28:15 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:31:59 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:31:59 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:31:59 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:33:03 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:33:03 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:33:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:33:41 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 10
+[01-Dec-2014 06:33:41 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:33:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:36:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 18
+[01-Dec-2014 06:37:53 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 18
+[01-Dec-2014 06:38:14 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2005): Unknown MySQL server host 'localhot' (25) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 18
+[01-Dec-2014 06:38:14 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:38:14 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[01-Dec-2014 06:40:28 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'wpdot175_msimple'@'localhost' (using password: YES) in /home/wpdot175/public_html/muy-simple/backend/resource/db.php on line 13
+[01-Dec-2014 06:40:28 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Couldn't fetch mysqli in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 12
+[01-Dec-2014 06:40:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/wpdot175/public_html/muy-simple/backend/verify.inc.php on line 14
+[11-Dec-2014 06:23:10 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:10 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:23:24 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:24 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:23:41 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:41 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:23:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:25:16 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:25:16 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:25:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:25:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:25:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:25:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:29:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:29:26 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:26 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:29:49 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:49 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:29:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:30:15 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:30:15 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:30:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:31:22 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:31:22 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:31:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:32:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:32:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:32:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 06:41:38 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:41:38 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:41:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 06:42:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 06:42:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 06:45:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 06:45:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 06:46:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 06:46:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 06:48:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 06:48:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 06:50:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 06:55:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:55:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:56:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:56:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:56:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 06:57:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 06:57:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 06:57:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:58:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 06:59:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 07:00:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 07:00:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 25
+[11-Dec-2014 07:01:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 07:01:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 07:02:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:02:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:03:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 07:03:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 22
+[11-Dec-2014 07:03:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:06:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:06:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:06:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:07:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 18
+[11-Dec-2014 07:07:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:08:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:10:54 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:11:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:11:38 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:11:52 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 18
+[11-Dec-2014 07:11:52 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 18
+[11-Dec-2014 07:11:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:14:25 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:14:25 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:14:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:15:55 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:15:55 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:15:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:16:43 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/verify.inc.php:31) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:16:43 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/verify.inc.php:31) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:16:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/verify.inc.php:31) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:16:58 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:16:58 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 19
+[11-Dec-2014 07:16:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 21
+[11-Dec-2014 07:18:45 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:18:45 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:18:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:19:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:19:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:19:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:21:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:21:07 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:21:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:21:30 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:21:30 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:21:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:22:46 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:22:46 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:22:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:22:51 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:22:51 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:22:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:23:24 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:23:24 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:23:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:24:04 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:24:04 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:24:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:24:39 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:24:39 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:24:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:25:14 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:25:14 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:25:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:25:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:25:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:25:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:26:11 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:26:11 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:26:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:29:38 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:29:38 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:29:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:29:43 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:29:43 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:29:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:29:58 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:29:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:33:02 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:33:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:33:17 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:33:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:33:35 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:33:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:33:44 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:33:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:33:57 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:33:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:35:48 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:35:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:35:56 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:35:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:36:34 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:36:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:36:42 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:36:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:37:17 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:37:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:37:25 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:37:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:39:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:39:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:39:25 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:39:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:39:46 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:39:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:39:55 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:39:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:40:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:40:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:40:26 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:40:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:40:53 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:40:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:45:50 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 20
+[11-Dec-2014 07:45:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/index.php:12) in /home/msimple/public_html/backend/verify.inc.php on line 24
+[11-Dec-2014 07:47:47 America/Chicago] PHP Fatal error:  Call to undefined function Login() in /home/msimple/public_html/backend/index.php on line 15
+[11-Dec-2014 07:47:49 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:49 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:52 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:52 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:53 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:53 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:54 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:54 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:56 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:56 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:56 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:56 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:57 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:58 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:47:59 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:00 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:01 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:02 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:03 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:04 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:05 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:06 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:07 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:08 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:09 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:10 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:11 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:12 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:13 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:14 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:15 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:16 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:17 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:18 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:19 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:20 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:21 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:22 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:23 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:24 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:25 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:26 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:27 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:28 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:29 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:30 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:31 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:32 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:33 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:34 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:35 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:36 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:37 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:38 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:39 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:40 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:41 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:42 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:43 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:44 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: user in /home/msimple/public_html/backend/verify.inc.php on line 7
+[11-Dec-2014 07:48:45 America/Chicago] PHP Notice:  Undefined index: pass in /home/msimple/public_html/backend/verify.inc.php on line 8
+[11-Dec-2014 08:56:46 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/msimple/public_html/backend/functions/encuestas.inc.php on line 126
+[11-Dec-2014 08:57:52 America/Chicago] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/msimple/public_html/backend/functions/encuestas.inc.php on line 17
+[11-Dec-2014 08:57:52 America/Chicago] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/msimple/public_html/backend/functions/encuestas.inc.php on line 17
+[11-Dec-2014 08:57:52 America/Chicago] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/msimple/public_html/backend/functions/encuestas.inc.php on line 17
+[11-Dec-2014 09:36:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:28) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:38:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:28) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:41:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:28) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:43:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:31) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:44:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:28) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:45:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:26) in /home/msimple/public_html/backend/functions/emprendimiento.inc.php on line 80
+[11-Dec-2014 09:46:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:26) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:47:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:26) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:48:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:25) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:48:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:19) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:49:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:25) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:49:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:25) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 09:56:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/backend/template/header.php:25) in /home/msimple/public_html/backend/functions/testimonios_gral.inc.php on line 58
+[11-Dec-2014 11:32:49 America/Chicago] PHP Warning:  require_once(functions/emprendimientos.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:32:49 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'functions/emprendimientos.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:32:58 America/Chicago] PHP Warning:  require_once(functions/emprendimientos.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:32:58 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'functions/emprendimientos.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:33:21 America/Chicago] PHP Warning:  require_once(functions/emprendimientos.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:33:21 America/Chicago] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'functions/emprendimientos.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:34:51 America/Chicago] PHP Warning:  require(functions/emprendimientos.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:34:51 America/Chicago] PHP Warning:  require(functions/emprendimientos.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 11:34:51 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'functions/emprendimientos.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/backend/delete_emprendimiento.php on line 3
+[11-Dec-2014 12:11:15 America/Chicago] PHP Warning:  require(functions/contacto.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 19
+[11-Dec-2014 12:11:15 America/Chicago] PHP Warning:  require(functions/contacto.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 19
+[11-Dec-2014 12:11:15 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'functions/contacto.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/contacto.php on line 19
+[11-Dec-2014 12:11:50 America/Chicago] PHP Fatal error:  Call to undefined function traerContacto() in /home/msimple/public_html/admin/contacto.php on line 20
+[11-Dec-2014 12:15:58 America/Chicago] PHP Fatal error:  Call to undefined function traerContacto() in /home/msimple/public_html/admin/contacto.php on line 20
+[11-Dec-2014 12:41:13 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:41:13 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:41:13 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/nav_contacto.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:41:34 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:41:34 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:41:34 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/nav_contacto.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:42:15 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:42:15 America/Chicago] PHP Warning:  require(template/nav_contacto.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 12:42:15 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/nav_contacto.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/contacto.php on line 12
+[11-Dec-2014 13:32:58 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 33
+[11-Dec-2014 14:05:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/msimple/public_html/admin/functions/testimonios_gral.inc.php on line 25
+[12-Dec-2014 07:28:17 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:28:31 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:28:53 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:29:28 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:30:00 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:34:22 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 07:35:09 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 07:35:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 07:36:46 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 18
+[12-Dec-2014 07:38:07 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 19
+[12-Dec-2014 07:39:22 America/Chicago] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 19
+[12-Dec-2014 07:39:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 15
+[12-Dec-2014 07:46:03 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 17
+[12-Dec-2014 07:46:40 America/Chicago] PHP Notice:  Undefined variable: data in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 28
+[12-Dec-2014 07:46:59 America/Chicago] PHP Notice:  Undefined variable: data in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 28
+[12-Dec-2014 07:51:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 16
+[12-Dec-2014 07:52:21 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 16
+[12-Dec-2014 07:52:44 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 16
+[12-Dec-2014 07:52:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on a non-object in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 16
+[12-Dec-2014 07:53:24 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 07:53:42 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 07:53:43 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 08:06:24 America/Chicago] PHP Fatal error:  Call to undefined function traerEncuestas() in /home/msimple/public_html/admin/encuestas.php on line 21
+[12-Dec-2014 08:07:38 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 08:08:02 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 08:08:04 America/Chicago] PHP Notice:  Undefined index: option4 in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 21
+[12-Dec-2014 08:14:10 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 29
+[12-Dec-2014 08:15:19 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/msimple/public_html/admin/functions/encuestas.inc.php on line 29
+[12-Dec-2014 08:16:37 America/Chicago] PHP Fatal error:  Call to undefined function traerEncuestas() in /home/msimple/public_html/admin/encuestas.php on line 21
+[12-Dec-2014 08:37:45 America/Chicago] PHP Fatal error:  Call to undefined function traerEncuestas() in /home/msimple/public_html/admin/encuestas.php on line 21
+[12-Dec-2014 09:48:42 America/Chicago] PHP Parse error:  syntax error, unexpected T_RETURN, expecting ',' or ';' in /home/msimple/public_html/admin/functions/capacitacion_menu.inc.php on line 36
+[15-Dec-2014 12:20:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$imagen6 in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 37
+[15-Dec-2014 12:20:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$imagen7 in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 38
+[15-Dec-2014 12:20:22 America/Chicago] PHP Notice:  Undefined property: stdClass::$imagen8 in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 39
+[15-Dec-2014 12:23:37 America/Chicago] PHP Notice:  Undefined property: stdClass::$imagen in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 182
+[15-Dec-2014 12:24:42 America/Chicago] PHP Notice:  Undefined property: stdClass::$imagen in /home/msimple/public_html/admin/functions/emprendimiento.inc.php on line 182
+[16-Dec-2014 07:00:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/msimple/public_html/admin/testimonio_add.php on line 18
+[16-Dec-2014 07:01:25 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/msimple/public_html/admin/testimonio_add.php on line 18
+[16-Dec-2014 07:03:27 America/Chicago] PHP Fatal error:  Call to undefined function insertTestimonio() in /home/msimple/public_html/admin/testimonio_add.php on line 22
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/rostro_001.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 07:04:10 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpLXgokW' to '../../../upload/rostro_001.png' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 07:06:59 America/Chicago] PHP Notice:  Undefined variable: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:07:50 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:09:00 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:10:13 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:10:21 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:10:47 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:11:01 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/testimonios.php on line 29
+[16-Dec-2014 07:11:01 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:11:52 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 13
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/rostro_001.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 07:53:53 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpS8QpnI' to '../../../upload/rostro_001.png' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 08:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 63
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 1 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 2 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 3 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 4 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 5 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 6 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 7 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 8 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 9 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Warning:  Missing argument 10 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:31:36 America/Chicago] PHP Notice:  Undefined index: imagen in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 53
+[16-Dec-2014 08:31:36 America/Chicago] PHP Notice:  Undefined index: imagen in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 60
+[16-Dec-2014 08:31:36 America/Chicago] PHP Notice:  Undefined index: imagen in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 60
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 1 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 2 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 3 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 4 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 5 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 6 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 7 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 8 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 9 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:23 America/Chicago] PHP Warning:  Missing argument 10 for insertCapacitacion(), called in /home/msimple/public_html/admin/capacitacion_add.php on line 23 and defined in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 45
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/rostro_001.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 08:33:40 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpnlSUbl' to '../../../upload/rostro_001.png' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/rostro_001.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 08:52:04 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpsdhasM' to '../../../upload/rostro_001.png' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/bg3.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:10:29 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpcOQG8e' to '../../../upload/bg3.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/nota_001.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:11:07 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpNUgq9b' to '../../../upload/nota_001.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/img_F.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:29:05 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpa63EWf' to '../../../upload/img_F.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/img_F.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:31:39 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpXlxigQ' to '../../../upload/img_F.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 09:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/msimple/public_html/admin/functions/capacitacion.inc.php on line 145
+[16-Dec-2014 11:31:09 America/Chicago] PHP Notice:  Undefined index: id in /home/msimple/public_html/admin/add_menu.php on line 22
+[16-Dec-2014 11:31:09 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/add_menu.php on line 32
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/img_F.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:32:58 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpExXFKv' to '../../../upload/img_F.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  Missing argument 1 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  Missing argument 2 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  Missing argument 3 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  Missing argument 4 for insertTestimonio(), called in /home/msimple/public_html/admin/testimonio_add.php on line 22 and defined in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 35
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/01.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:33:49 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpof1Lur' to '../../../upload/01.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:34:42 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/nota_003.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:34:42 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpA314iX' to '../../../upload/nota_003.jpg' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:36:04 America/Chicago] PHP Warning:  move_uploaded_file(../../../upload/curso_3.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:36:04 America/Chicago] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpJcoC0e' to '../../../upload/curso_3.png' in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 45
+[16-Dec-2014 11:52:54 America/Chicago] PHP Fatal error:  Call to undefined function traerCapacitacion() in /home/msimple/public_html/admin/capacitacion.php on line 29
+[16-Dec-2014 11:53:12 America/Chicago] PHP Notice:  Undefined variable: data in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 56
+[16-Dec-2014 11:53:12 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 56
+[16-Dec-2014 11:54:22 America/Chicago] PHP Notice:  Undefined variable: data in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 56
+[16-Dec-2014 11:54:22 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/functions/testimonios.inc.php on line 56
+[16-Dec-2014 13:42:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:45:45 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:45:48 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:46:04 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:46:08 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:55:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:55:26 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:56:33 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:56:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 37
+[16-Dec-2014 13:56:38 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 37
+[16-Dec-2014 13:56:40 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 37
+[16-Dec-2014 13:56:50 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 13:58:05 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:05:11 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:06:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:06:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:06:43 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 39
+[16-Dec-2014 14:07:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:07:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 39
+[16-Dec-2014 14:07:40 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:08:20 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:10:48 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:48 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:48 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/navmenu.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:54 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:10:56 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:56 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:56 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/navmenu.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:10:57 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:14:00 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:14:00 America/Chicago] PHP Warning:  require(template/navmenu.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:14:00 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'template/navmenu.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/msimple/public_html/admin/galeria_emprendimiento_add.php on line 7
+[16-Dec-2014 14:28:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:29:39 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:29:41 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:29:44 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/msimple/public_html/admin/agregar_imagen_galeria.php on line 31
+[16-Dec-2014 14:30:30 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:30:30 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:30:30 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:30:30 America/Chicago] PHP Notice:  Undefined variable: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 375
+[16-Dec-2014 14:30:39 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:30:39 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:30:39 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:30:39 America/Chicago] PHP Notice:  Undefined variable: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 375
+[16-Dec-2014 14:31:18 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:31:18 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:31:18 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:31:18 America/Chicago] PHP Notice:  Undefined variable: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 375
+[16-Dec-2014 14:32:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:32:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:32:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:32:06 America/Chicago] PHP Notice:  Undefined variable: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 375
+[16-Dec-2014 14:32:14 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:32:14 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:32:14 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:33:03 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:33:03 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:33:03 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:34:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 370
+[16-Dec-2014 14:34:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[16-Dec-2014 14:34:06 America/Chicago] PHP Notice:  Undefined index: galeria in /home/msimple/public_html/admin/functions/galerias.inc.php on line 373
+[19-Feb-2015 14:08:50 America/Chicago] PHP Fatal error:  Call to undefined function traerGaleriaPrincipal() in /home/msimple/public_html/admin/myAccountDetails.php on line 24
+[19-Feb-2015 14:10:55 America/Chicago] PHP Fatal error:  Call to undefined function traerGaleriaPrincipal() in /home/msimple/public_html/admin/myAccountDetails.php on line 24
+[19-Feb-2015 14:32:04 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/msimple/public_html/admin/resource/pdo.php on line 18
+[19-Feb-2015 15:19:18 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:20:12 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:23:00 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:24:28 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:25:16 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:25:23 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:27:16 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:27:22 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:27:27 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[19-Feb-2015 15:29:30 America/Chicago] PHP Fatal error:  Call to undefined method UserInfo::changeInfoUser() in /home/msimple/public_html/admin/myAccountDetails.php on line 7
+[20-Feb-2015 06:51:35 America/Chicago] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /home/msimple/public_html/admin/resource/pdo.php on line 48
+[20-Feb-2015 06:52:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_BOOLEAN_AND, expecting ')' in /home/msimple/public_html/admin/resource/pdo.php on line 48
+[20-Feb-2015 06:53:15 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/msimple/public_html/admin/resource/pdo.php on line 48
+[20-Feb-2015 06:54:14 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/msimple/public_html/admin/resource/pdo.php on line 51
+[20-Feb-2015 07:02:46 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/msimple/public_html/admin/resource/pdo.php on line 35
+[20-Feb-2015 07:03:31 America/Chicago] PHP Fatal error:  Call to undefined method PDO::bindParam() in /home/msimple/public_html/admin/resource/pdo.php on line 35
+[20-Feb-2015 07:06:08 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/msimple/public_html/admin/resource/pdo.php on line 40
+[20-Feb-2015 07:10:09 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/msimple/public_html/admin/resource/pdo.php on line 39
+[20-Feb-2015 07:11:18 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/msimple/public_html/admin/resource/pdo.php on line 39
+[20-Feb-2015 07:11:42 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/msimple/public_html/admin/resource/pdo.php on line 39
+[20-Feb-2015 07:16:27 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/msimple/public_html/admin/resource/pdo.php on line 39
+[20-Feb-2015 07:19:21 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/msimple/public_html/admin/resource/pdo.php on line 37
+[20-Feb-2015 07:21:15 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/msimple/public_html/admin/resource/pdo.php on line 39
+[20-Feb-2015 07:26:36 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/msimple/public_html/admin/resource/pdo.php on line 43
+[20-Feb-2015 07:27:10 America/Chicago] PHP Warning:  PDOStatement::execute() [<a href='pdostatement.execute'>pdostatement.execute</a>]: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/msimple/public_html/admin/resource/pdo.php on line 43
+[20-Feb-2015 07:28:22 America/Chicago] PHP Fatal error:  Call to undefined method PDOStatement::exec() in /home/msimple/public_html/admin/resource/pdo.php on line 43
+[20-Feb-2015 07:34:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/msimple/public_html/admin/resource/pdo.php on line 61
+[20-Feb-2015 07:35:06 America/Chicago] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/msimple/public_html/admin/resource/pdo.php on line 36
+[20-Feb-2015 07:38:18 America/Chicago] PHP Warning:  PDO::exec() expects exactly 1 parameter, 0 given in /home/msimple/public_html/admin/resource/pdo.php on line 38
+[20-Feb-2015 07:56:21 America/Chicago] PHP Notice:  Undefined index: id_user in /home/msimple/public_html/admin/verify.inc.php on line 9
+[20-Feb-2015 07:56:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/msimple/public_html/admin/verify.inc.php:9) in /home/msimple/public_html/admin/verify.inc.php on line 20
+[20-Feb-2015 07:56:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/msimple/public_html/admin/verify.inc.php:9) in /home/msimple/public_html/admin/verify.inc.php on line 25
+[20-Feb-2015 08:02:46 America/Chicago] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/msimple/public_html/admin/resource/pdo.php on line 20
+[20-Feb-2015 08:03:43 America/Chicago] PHP Fatal error:  Class 'UserInfo' not found in /home/msimple/public_html/admin/mi-cuenta.php on line 5
+[20-Feb-2015 08:12:28 America/Chicago] PHP Parse error:  syntax error, unexpected T_IF in /home/msimple/public_html/admin/resource/pdo.php on line 44
+[20-Feb-2015 08:12:34 America/Chicago] PHP Parse error:  syntax error, unexpected T_IF in /home/msimple/public_html/admin/resource/pdo.php on line 44
+[19-Mar-2015 09:47:14 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/msimple/public_html/admin/class/class.integrantes.php on line 48
+[19-Mar-2015 09:48:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/msimple/public_html/admin/integrantes.php on line 17
+[19-Mar-2015 09:49:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/msimple/public_html/admin/integrantes.php on line 17
+[19-Mar-2015 09:49:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/msimple/public_html/admin/integrantes.php on line 17
+[19-Mar-2015 09:49:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/msimple/public_html/admin/integrantes.php on line 17

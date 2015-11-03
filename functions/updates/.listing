@@ -1,0 +1,15 @@
+drwxr-xr-x    2 msimple    msimple          4096 Dec 15  2014 .
+drwxr-xr-x    4 msimple    msimple          4096 Jul 10 16:58 ..
+-rw-r--r--    1 msimple    msimple          6148 Jul 20 08:03 .DS_Store
+-rw-r--r--    1 msimple    msimple          6669 Jul 20 08:03 error_log
+-rw-r--r--    1 msimple    msimple          1756 Jul 20 08:03 update_capacitacion.php
+-rw-r--r--    1 msimple    msimple           853 Jul 20 08:03 update_capacitacion_menu.php
+-rw-r--r--    1 msimple    msimple         10151 Jul 20 08:03 update_emprendimiento.php
+-rw-r--r--    1 msimple    msimple           996 Jul 20 08:03 update_galeria_capacitacion.php
+-rw-r--r--    1 msimple    msimple           967 Jul 20 08:03 update_galeria_home.php
+-rw-r--r--    1 msimple    msimple           579 Jul 20 08:03 update_galeria_tienda.php
+-rw-r--r--    1 msimple    msimple          1013 Jul 20 08:03 update_novedad.php
+-rw-r--r--    1 msimple    msimple          1038 Jul 20 08:03 update_novedad_tienda.php
+-rw-r--r--    1 msimple    msimple           569 Jul 20 08:03 update_revista.php
+-rw-r--r--    1 msimple    msimple           988 Jul 20 08:03 update_testimonio_gral.php
+-rw-r--r--    1 msimple    msimple           826 Jul 20 08:03 update_tienda_prod.php

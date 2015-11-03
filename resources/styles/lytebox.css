@@ -1,0 +1,112 @@
+#lbOverlay {
+	position: fixed;
+	top: 0;
+	left: 0px;
+	z-index: 99998;
+	width: 100%;
+	height: 500px;
+}
+	#lbOverlay.grey { background-color: #000000; }
+	#lbOverlay.red { background-color: #330000; }
+	#lbOverlay.green { background-color: #003300; }
+	#lbOverlay.blue { background-color: #011D50; }
+	#lbOverlay.gold { background-color: #666600; }
+
+#lbMain { position: absolute; left: 0; width: 100%; z-index: 99999; text-align: center; line-height: 0; }
+#lbMain a img { border: none; }
+
+#lbOuterContainer { position: relative; background-color: #fff; width: 600px !important; height: auto !important; margin: 0 auto; }
+
+#lbDetailsContainer {	font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; width: 600px !important; line-height: 1.4em;	overflow: auto; margin: 0 auto; }	
+
+#lbImageContainer, #lbIframeContainer { padding: 10px; }
+#lbLoading {
+	position: absolute; top: 45%; left: 0%; height: 32px; width: 100%; text-align: center; line-height: 0; background: url(images/loading.gif) center no-repeat;
+}
+#lbImageContainer{
+	position:relative;
+}
+
+#lbImageContainer img{
+	width: 100% !important;
+    	height: auto !important;
+}	
+
+#lbHoverNav { position:absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#lbImageContainer>#lbHoverNav { left: 0; }
+#lbHoverNav a { outline: none; }
+
+#lbPrev {background: transparent url(images/blank.gif) no-repeat; display: block; left: 0; float: left; }
+
+#lbPrev {
+	 background:url(../images/icons.png) no-repeat;
+	 background-position:-150px -151px;
+	 position:absolute; 
+	 width:23px; 
+	 height:50px; 
+	 top:50%; 
+	 left:-55px; }
+	
+#lbNext { background: transparent url(images/blank.gif) no-repeat; display: block; right: 0; float: right; }
+	
+#lbNext { 
+	background:url(../images/icons.png) no-repeat;
+	background-position:-175px -151px;
+	position:absolute; 
+	width:23px; 
+	height:50px; 
+	top:50%; 
+	right:-55px;
+	}
+	
+
+/*#lbPrev2, #lbNext2 { text-decoration: none; font-weight: bold; }
+	#lbPrev2.grey, #lbNext2.grey, #lbSpacer.grey { color: #333333; }
+	#lbPrev2.red, #lbNext2.red, #lbSpacer.red { color: #620000; }
+	#lbPrev2.green, #lbNext2.green, #lbSpacer.green { color: #003300; }
+	#lbPrev2.blue, #lbNext2.blue, #lbSpacer.blue { color: #01379E; }
+	#lbPrev2.gold, #lbNext2.gold, #lbSpacer.gold { color: #666600; }
+	
+#lbPrev2_Off, #lbNext2_Off { font-weight: bold; }
+	#lbPrev2_Off.grey, #lbNext2_Off.grey { color: #CCCCCC; }
+	#lbPrev2_Off.red, #lbNext2_Off.red { color: #FFCCCC; }
+	#lbPrev2_Off.green, #lbNext2_Off.green { color: #82FF82; }
+	#lbPrev2_Off.blue, #lbNext2_Off.blue { color: #B7CAEE; }
+	#lbPrev2_Off.gold, #lbNext2_Off.gold { color: #E1E100; }
+	
+#lbDetailsData { padding: 0 10px; }
+	
+	#lbDetailsData.red { color: #620000; }
+	#lbDetailsData.green { color: #003300; }
+	#lbDetailsData.blue { color: #01379E; }
+	#lbDetailsData.gold { color: #666600; }*/
+#lbDetailsData.grey { color: #fff; }
+#lbDetails { width: 60%; float: left; text-align: left; }
+#lbCaption { display: block; font-weight: bold; }
+#lbNumberDisplay { float: left; display: block; padding-bottom: 1.0em; }
+#lbNavDisplay { float: left; display: block; padding-bottom: 1.0em; }
+
+#lbClose { width: 98px; height: 28px; float: right; margin-bottom: 1px; }
+	#lbClose { background:url(../images/icons.png) no-repeat;
+	background-position:-57px -175px;}
+	
+	
+	
+	#lbClose.red { background: url(images/close_red.png) no-repeat; }
+	#lbClose.green { background: url(images/close_green.png) no-repeat; }
+	#lbClose.blue { background: url(images/close_blue.png) no-repeat; }
+	#lbClose.gold { background: url(images/close_gold.png) no-repeat; }
+
+#lbPlay { width: 64px; height: 28px; float: right; margin-bottom: 1px; }
+	#lbPlay.grey { background: url(images/play_grey.png) no-repeat; }
+	#lbPlay.red { background: url(images/play_red.png) no-repeat; }
+	#lbPlay.green { background: url(images/play_green.png) no-repeat; }
+	#lbPlay.blue { background: url(images/play_blue.png) no-repeat; }
+	#lbPlay.gold { background: url(images/play_gold.png) no-repeat; }
+	
+#lbPause { width: 64px; height: 28px; float: right; margin-bottom: 1px; }
+	#lbPause.grey { background: url(images/pause_grey.png) no-repeat; }
+	#lbPause.red { background: url(images/pause_red.png) no-repeat; }
+	#lbPause.green { background: url(images/pause_green.png) no-repeat; }
+	#lbPause.blue { background: url(images/pause_blue.png) no-repeat; }
+	#lbPause.gold { background: url(images/pause_gold.png) no-repeat; }
