@@ -47,6 +47,7 @@ function traerCapacitacion(){
 
 function insertCapacitacion(){
 
+    ob_start();
     $db = Conectar();
 
     $titulo = $_POST['titulo'];
@@ -61,22 +62,15 @@ function insertCapacitacion(){
     $video = $_POST['video'];
     $video1 = substr($video, 32, 11);
    
-    move_uploaded_file($_FILES['imagen']['tmp_name'], Session::get('UPLOAD_PATH').$_FILES['imagen']['name']);
-     move_uploaded_file($_FILES['imagen_2']['tmp_name'], Session::get('UPLOAD_PATH').$_FILES['imagen_2']['name']);
+
+    move_uploaded_file($_FILES['imagen']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen']['name']);
+     move_uploaded_file($_FILES['imagen_2']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen_2']['name']);
 
     $sql = "INSERT INTO capacitacion SET titulo='$titulo', detalle='$detalle', imagen='$imagen', imagen_2='$imagen_2', sede='$sede', duracion='$duracion', horarios='$horarios', profesor='$profesor', video='$video1'";
     $resultado = $db->query($sql);
     
-    if (!$resultado){
-
-         echo "<script language='JavaScript'>";
-        echo "alert('Error al guardar.');";
-        echo "</script>";
-    
-    }else{
-        echo "<script language='JavaScript'>";
-        echo "window.location.href = 'capacitacion.php'";
-        echo "</script>";
+    if ($resultado){
+        @header('Location: capacitacion.php');
     }
 }
 
