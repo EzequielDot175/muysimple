@@ -129,14 +129,7 @@
         </nav>
     </div>
 </header>
-    <div class="social-media">
-        <a href="https://www.facebook.com/pages/Muy-Simple/108397055910812?fref=ts" title="Facebook" target="_blank" rel="nofollow">
-            <span class="icon smFb"></span>
-        </a>
-        <a href="https://www.youtube.com/fmuysimple" title="You Tube" target="_blank" rel="nofollow">
-            <span class="icon smYt"></span>
-        </a>
-    </div>
+   <?php include_once('social.php'); ?>
 <section class="ContactoLocalizacion">
 <div class="mapa"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1643.1571951344208!2d-58.473180382027!3d-34.54559444670939!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6981666195d%3A0x7213da2a920035bf!2sAv+Ruiz+Huidobro+2570%2C+Buenos+Aires%2C+Ciudad+Aut%C3%B3noma+de+Buenos+Aires!5e0!3m2!1ses!2sar!4v1424457475728" width="100%" height="460" frameborder="0" style="border:0"></iframe></div>
 </section>

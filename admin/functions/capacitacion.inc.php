@@ -47,7 +47,6 @@ function traerCapacitacion(){
 
 function insertCapacitacion(){
 
-    ob_start();
     $db = Conectar();
 
     $titulo = $_POST['titulo'];

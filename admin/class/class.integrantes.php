@@ -117,6 +117,7 @@
 		public function updateSort($sort){
 			$query = "UPDATE integrantes SET sort = :num WHERE id = :id";
 			// $upd = $this->query()
+
 			foreach($sort as $key => $val):
 				$upd = $this->db->prepare($query);
 				$upd->bindParam(':num',$key,PDO::PARAM_INT);

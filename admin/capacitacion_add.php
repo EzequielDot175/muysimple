@@ -1,4 +1,6 @@
 <?php 
+    ob_start();
+
 $page = 'capacitacion';
 $page2 = 'nav-capacitacion';
 require("template/header.php");
