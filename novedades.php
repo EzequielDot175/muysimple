@@ -200,7 +200,7 @@
 	<section class="site-novedades clearfix  Col_1Mobile">
     <div class="row Col_1Mobile">
     	 <section class=" col_1 EncabezadoNovedades SacarSeccionCelular">
-       	<a href="Revista Digital.php"><button type="button" class="ver-novedades tienda btn-Novedades">
+       	<a href="Revista.php"><button type="button" class="ver-novedades tienda btn-Novedades">
        	<span class="icon libroOnline"></span><span class="btn-revista">Revista Online</span>
        </button></a>
        </section>	 

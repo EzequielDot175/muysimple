@@ -35,7 +35,9 @@ require("template/header.php");
 		<label for="Usuario">URL Video (YouTube):</label><br>
 		<input class="campo-login" type="text" name="videonov" placeholder="Copie y pegue el link aquí. Ej: https://www.youtube.com/watch?v=hoZVYHyrIa4">
 		<br>
-
+		<label for="descatado">Destacado</label>
+		<input type="checkbox" name="destacado">
+		<br>
 		<br>
 		<input type="file" name="imagen"> 
 		<br>

@@ -40,6 +40,7 @@ function traerNovedades(){
 
 function insertNovedades(){
 
+
     $db = Conectar();
 
     $titulo = $_POST["titulo"];
@@ -48,11 +49,11 @@ function insertNovedades(){
     $video = $_POST["videonov"];
     $imagen = $_FILES['imagen']['name'];
     $video1 = substr($video, 32, 11);
-
+    $destacado = (isset($_POST['destacado']) ? 1 : 0 );
 
     move_uploaded_file($_FILES['imagen']['tmp_name'], '../upload/'.$_FILES['imagen']['name']);
 
-    $sql = ("INSERT INTO novedades (titulo, detalle,fecha, video, imagen) VALUES ('$titulo','$detalle', '$fecha','$video1', '$imagen')");
+    $sql = ("INSERT INTO novedades (titulo, detalle,fecha, video, imagen, destacado) VALUES ('$titulo','$detalle', '$fecha','$video1', '$imagen', '$destacado')");
     $resultado = $db->query($sql);
     
     if (!$resultado){
@@ -95,7 +96,9 @@ function editNovedades(){
     <label for="Usuario">Fecha:</label><br>
     <input class="campo-login" type="date" name="fecha" value="'.$data->fecha.'">
     <br>
-    
+    <br>
+    <label for="destacado">Destacado</label>
+    <input type="checkbox" name="destacado" '.($data->destacado == 1 ? "checked='true'" : "").'>
 
     <br>
     <img src="../upload/'.$data->imagen.'" width="165"><br>
