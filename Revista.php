@@ -43,6 +43,9 @@
     <meta name="twitter:creator" content="">
     <meta name="twitter:domain" content="">
     <meta name="twitter:url" content="">
+    <?php 
+        include LIBS_PATH.'/google-analitics.php';
+     ?>
     <meta name="twitter:description" content="">
     <!-- STYLES -->
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300' rel='stylesheet' type='text/css'>

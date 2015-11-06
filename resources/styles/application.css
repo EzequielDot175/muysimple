@@ -97,7 +97,11 @@ img{
 	margin:12px 0px 0px 10px;
 	float:left;
 }
-
+.icon.smYTwitter{
+	background: url(../images/twitter-black.png);
+	border-radius: 50%;
+    background-size: cover;
+}
 .icon.sliderLeft{
     width: 14px;
 	height: 30px;

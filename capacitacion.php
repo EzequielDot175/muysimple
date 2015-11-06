@@ -43,6 +43,9 @@
     <meta name="twitter:url" content="">
     <meta name="viewport" content="initial-scale=1">
     <meta name="twitter:description" content="">
+    <?php 
+        include LIBS_PATH.'/google-analitics.php';
+     ?>
     <!-- STYLES -->
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>

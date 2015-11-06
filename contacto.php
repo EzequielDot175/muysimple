@@ -44,6 +44,9 @@
     <meta name="twitter:creator" content="">
     <meta name="twitter:domain" content="">
     <meta name="twitter:url" content="">
+    <?php 
+        include 'google-analitics.php';
+     ?>
     <meta name="twitter:description" content="">
     <!-- STYLES -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
@@ -147,6 +150,9 @@
         <a href="#" title="Compartir en Twitter" rel="nofollow" class="twlink">
             <span class="icon smYtBlanco"></span>
         </a>
+         <a href="https://twitter.com/fmuysimple" title="Twitter" target="_blank" rel="nofollow">
+            <span class="icon twitter smYTwitter"></span>
+        </a>
     	</div>
     </header>
      
@@ -214,7 +220,7 @@
             <span class="icon ImagenMailVerde"></span>
 			<div class="dataContacto">	
                 <span>Email</span>
-                <p><a href="#" title="milto:tienda@muysimple.org" class="Mail-site-Contacto">info@muysimple.org</a></p>
+                <p><a href="mailto:tienda@muysimple.org" title="Mail" class="Mail-site-Contacto">info@muysimple.org</a></p>
 			</div>
 			 <span class="icon ImagenTelefonoVerde"></span>
           <div class="dataContacto">

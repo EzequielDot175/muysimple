@@ -57,7 +57,9 @@
     <link rel="stylesheet" type="text/css" href="resources/styles/idangerous.swiper.css">
     <link rel="stylesheet" href="resources/styles/application.css" />
 	<link  href="resources/styles/celular.css" rel="stylesheet" type="text/css" />
-
+    <?php 
+        include LIBS_PATH.'/google-analitics.php';
+     ?>
     <!--[if IE]>
         <link  rel="stylesheet" href="resources/styles/iexplorer.css" />
         <script src="resources/scripts/libs/html5shiv.min.js"></script>

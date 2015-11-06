@@ -46,6 +46,9 @@
     <meta name="twitter:domain" content="">
     <meta name="twitter:url" content="">
     <meta name="twitter:description" content="">
+    <?php 
+        include LIBS_PATH.'/google-analitics.php';
+     ?>
     <!-- STYLES -->
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     
