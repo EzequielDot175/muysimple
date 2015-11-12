@@ -38,6 +38,10 @@
 		protected $table = "galeria_capacitacion";
 		protected $id_name_table = "id_galc";
 
+		public function __construct(){
+			//self::__construct();
+		}
+
 		public static function obj(){
 			return (new GCapacitacion());
 		}
@@ -45,6 +49,7 @@
 			return self::obj()->callAll(array('by' => 'id_galc','order' => 'desc'));
 		}
 		public static function add($array){
+			
 			return self::obj()->callAdd($array);
 		}
 		public static function edit($array,$where){

@@ -14,15 +14,9 @@ Post::exist('submit',function(){
 		"titulo" => Post::input('titulo'),
 		"descripcion" => Post::input('descripcion'),
 		"capacitacion_id" => Post::input('curso'),
+		"imagen" => Post::input('imagen')
 		);
-	$img = File::get('imagen');
-	if (!empty($img['name'])) {
-		$name = File::upload('imagen');
-		
-		if (!empty($name) && $name != "") {
-			$edit['imagen'] = $name;
-		}
-	}
+	
 	GCapacitacion::edit($edit,array("id_galc","=",Post::input('id_gal')));
 
 });
@@ -54,9 +48,10 @@ $data = GCapacitacion::find($_GET['id']);
 	</textarea>
 	<br>
 	<br>
-	<img src="<?php echo Session::get('UPLOAD_URL')."/".$data->imagen; ?>" width="165"><br>
-	<input id="campo-imagen" type="file" name="imagen" value=""> 
+	<img src="../upload/<?php echo $data->imagen; ?>" width="100"  id="preview" ><br>
+	<input id="image-name" type="hidden" name="imagen" value="<?php echo $data->imagen; ?>">
 	<br>
+	<button class="btn" id="launch-image-loader">Seleccionar imagen</button>
 	<br>
 	<p>Si selecciona un curso, este sera referenciado para el boton más detalles de la galeria.</p>
 	<select name="curso" id="">
@@ -84,5 +79,48 @@ $data = GCapacitacion::find($_GET['id']);
 	</div>
 	</div>
 </div>
+
+
+
+
+
+<div class="image-loader-container">
+	<div class="image-loader-content">
+	<img src="crop/close.png" alt="close" class="close" title="Cerrar" class="Cerrar" id="closeCropper">
+	<form action="#" id="crop-form">
+      <div class="image-editor">
+        
+        <div class="cropit-image-preview">
+        	<img src="crop/loader.gif" alt="Cargando" title="Cargando..." id="cropper-loader">
+        </div>
+        
+        <ul>
+        	<li> <span class="circle-number">1</span> Seleccionar imagen <input type="file" class="cropit-image-input"></li>
+        	<li> <span class="circle-number">2</span> Ajustar la imagen mediante el zoom  <input type="range" class="cropit-image-zoom-input"></li>
+        	<li> <span class="circle-number">3</span> Subir imagen  <button type="submit" class="btn-upload-croppit" id="trigger-btn-croppit">Subir imagen</button></li>
+        </ul>
+        <input type="hidden" name="image-data" class="hidden-image-data" />
+        
+      </div>
+    </form>
+	</div>
+</div>
+
+<script src="crop/jquery.cropit.js"></script>
+<script src="crop/cropper.js"></script>
+<script>
+      $(function() {
+
+        $('.image-editor').cropit({
+	          width: 1024,
+	          height: 450
+	        });
+        $('#launch-image-loader').OpenCropper();
+        $('#crop-form').onCropSubmit();
+
+        $("#closeCropper").CloseCropper();
+        
+      });
+    </script>
 
 <?php require "template/footer.php"; ?>

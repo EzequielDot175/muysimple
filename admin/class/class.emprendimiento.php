@@ -31,16 +31,17 @@
 
 		}
 
-		public static function addBanner($post,$files){
+		public static function addBanner($post){
 			//self::$db = new PDO('mysql:host=localhost;dbname=msimple_muy', "msimple_simple", "msimple1243**", //produccion
 			self::$db = self::dbconfig();
 
 			$title = $post["title"];
 			$description = $post["description"];
-			$file_name = self::name($_FILES["banner"]["name"]);
-			$file_tmp = $_FILES["banner"]["tmp_name"];
+			$file_name = $post["banner"];
 
-			if(self::upload($file_name,$file_tmp)):
+
+
+			if(!empty($file_name)):
 				$insert = self::$db->prepare("INSERT INTO ".self::$table." (title,description,img) VALUES (:title,:description,:img)");
 				$insert->bindParam(":title", $title, PDO::PARAM_STR);
 				$insert->bindParam(":description", $description, PDO::PARAM_STR);
@@ -77,15 +78,17 @@
 			endif;
 
 		}
-		public static function update($post,$files){
-			//self::$db = new PDO('mysql:host=localhost;dbname=msimple_muy', "msimple_simple", "msimple1243**");
+		public static function update($post){
+
+			
 			self::$db = self::dbconfig();
-			$update = self::$db->prepare("UPDATE ".self::$table." SET title = :title, description = :description WHERE id = :current");
+			$update = self::$db->prepare("UPDATE ".self::$table." SET title = :title, img = :img, description = :description WHERE id = :current");
 			$update->bindParam(":title", $post["edit-name"], PDO::PARAM_STR);
 			$update->bindParam(":description", $post["edit-content"], PDO::PARAM_STR);
 			$update->bindParam(":current", $post["current"], PDO::PARAM_INT);
+			$update->bindParam(":img", $post["img"], PDO::PARAM_STR);
 			$update->execute();
-			self::updateImage($files["edit-file"],$post["current"]);
+			//self::updateImage($files["edit-file"],$post["current"]);
 			
 		}
 		public static function galeria(){

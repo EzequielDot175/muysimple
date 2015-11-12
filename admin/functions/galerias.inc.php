@@ -43,10 +43,10 @@ function insertGaleriaPrincipal(){
 
 	$titulo = $_POST["titulo"];
 	$descripcion = $_POST["descripcion"];
-	$imagen = $_FILES['imagen']['name'];
+	$imagen = (!empty($_POST['imagen']) ? $_POST['imagen'] : '' );
 
 
-	move_uploaded_file($_FILES['imagen']['tmp_name'], '../upload/'.$_FILES['imagen']['name']);
+	//move_uploaded_file($_FILES['imagen']['tmp_name'], '../upload/'.$_FILES['imagen']['name']);
 
 	$sql = ("INSERT INTO galeria_principal (titulo, descripcion,imagen) VALUES ('$titulo','$descripcion','$imagen')");
 	$resultado = $db->query($sql);
@@ -89,8 +89,9 @@ function editGaleriaPrincipal(){
 	<textarea name="descripcion" class="campo-login-textarea" id="" cols="30" rows="10">'.$data->descripcion.'</textarea>
 	<br>
 	<br>
-	<img src="../upload/'.$data->imagen.'" width="165"><br>
-	<input id="campo-imagen" type="file" name="imagen" value="'.$data->imagen.'"> 
+	<img src="../upload/'.$data->imagen.'" width="165" id="preview"><br>
+	<button class="btn" id="launch-image-loader">Seleccionar imagen</button><br><br>
+	<input id="campo-imagen" type="hidden" name="imagen" value="'.$data->imagen.'"> 
 	<br>
 	<br>
 

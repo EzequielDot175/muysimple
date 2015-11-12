@@ -134,7 +134,7 @@
 
 				$sql = $sql.$cellName." VALUES ".$cellValue;
                                                                                                 
-				return $this->db->exec($sql);
+				return self::get()->exec($sql);
 
 			
 		}

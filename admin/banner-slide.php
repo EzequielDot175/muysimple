@@ -4,10 +4,10 @@ $page2 = 'nav-banner-slide';
 require("template/header.php");
 
 if(isset($_POST["action"]) && $_POST["action"] == "add"):
-	Emprendimientos::addBanner($_POST,$_FILES);
+	Emprendimientos::addBanner($_POST);
 endif;
 if(isset($_POST["ready"]) && $_POST["ready"] == true):
-	Emprendimientos::update($_POST,$_FILES);
+	Emprendimientos::update($_POST);
 endif;
 
 ?>
@@ -30,12 +30,17 @@ endif;
 					<label for="banner">Agregar Banner</label><br>
 					<input type="text" name="title" placeholder="Ingrese el titulo del banner"><br>
 					<textarea name="description" cols="30" rows="10"></textarea><br>
-					<input type="file" name="banner"><br>
+					<input type="hidden" name="banner" id="image-name"><br>
+					<br>
+					<img src=""  id="preview" width="100">
+					<br>
+					<button class="btn" id="launch-image-loader">Seleccionar imagen</button>
 					<input type="hidden" name="action" value="add">
 					<input type="submit" value="Agregar banner"><br>
 				</form>
 			</div>
 			
+		
 			 <?php foreach(Emprendimientos::fetch() as $k => $v): ?>
 			<div class="emprendimiento-admin">
 				<h3><?php echo $v["title"]; ?></h3>
@@ -49,8 +54,12 @@ endif;
 						<br>
 						<p>
 							Actualizar imagen: 
-							<input type="file" name="edit-file">
+							<br>
+							<img src=""  id="preview-<?php echo $v["id"]; ?>" width="100">
+							<br>
+							<button class="btn" id="launch-image-loader-<?php echo $v["id"]; ?>">Seleccionar imagen</button>
 						</p>
+						<input type="hidden" name="img" id="result-<?php echo $v["id"]; ?>">
 						<input type="hidden" name="ready" value="false">
 						<input type="hidden" name="action" value="update">
 						<input type="hidden" name="current" value="<?php echo $v["id"]; ?>">
@@ -98,5 +107,52 @@ endif;
 		});
 	});	
 </script>
+
+
+
+<div class="image-loader-container">
+	<div class="image-loader-content">
+	<img src="crop/close.png" alt="close" class="close" title="Cerrar" class="Cerrar" id="closeCropper">
+	<form action="#" id="crop-form">
+      <div class="image-editor">
+        
+        <div class="cropit-image-preview">
+        	<img src="crop/loader.gif" alt="Cargando" title="Cargando..." id="cropper-loader">
+        </div>
+        
+        <ul>
+        	<li> <span class="circle-number">1</span> Seleccionar imagen <input type="file" class="cropit-image-input"></li>
+        	<li> <span class="circle-number">2</span> Ajustar la imagen mediante el zoom  <input type="range" class="cropit-image-zoom-input"></li>
+        	<li> <span class="circle-number">3</span> Subir imagen  <button type="submit" class="btn-upload-croppit" id="trigger-btn-croppit">Subir imagen</button></li>
+        </ul>
+        <input type="hidden" name="image-data" class="hidden-image-data" />
+        
+      </div>
+    </form>
+	</div>
+</div>
+
+<script src="crop/jquery.cropit.js"></script>
+<script src="crop/cropper.js"></script>
+<script>
+      $(function() {
+
+        $('.image-editor').cropit({
+	          width: 1024,
+	          height: 450
+	        });
+        $('#launch-image-loader').OpenCropper();
+        $('#crop-form').onCropSubmit();
+        $("#closeCropper").CloseCropper();
+
+        $('button[id^="launch-image-loader-"]').CropSubmitButtons();
+
+
+
+
+
+        
+      });
+    </script>
 
 <?php require "template/footer.php"; ?>
