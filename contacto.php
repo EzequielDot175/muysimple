@@ -220,7 +220,7 @@
             <span class="icon ImagenMailVerde"></span>
 			<div class="dataContacto">	
                 <span>Email</span>
-                <p><a href="mailto:tienda@muysimple.org" title="Mail" class="Mail-site-Contacto">info@muysimple.org</a></p>
+                <p><a href="mailto:info@muysimple.org" title="Mail" class="Mail-site-Contacto">info@muysimple.org</a></p>
 			</div>
 			 <span class="icon ImagenTelefonoVerde"></span>
           <div class="dataContacto">
