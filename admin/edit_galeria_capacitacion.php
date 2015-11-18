@@ -53,7 +53,7 @@ $data = GCapacitacion::find($_GET['id']);
 	<br>
 	<button class="btn" id="launch-image-loader">Seleccionar imagen</button>
 	<br>
-	<p>Si selecciona un curso, este sera referenciado para el boton más detalles de la galeria.</p>
+	<p>Seleccione un curso para para vincular el banner.</p>
 	<select name="curso" id="">
 		<option value="">Seleccionar</option>
 		<?php foreach(Capacitacion::all() as $k => $v): ?>
