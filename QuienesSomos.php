@@ -420,7 +420,7 @@
                 </figure> 
                 <?php 
                 }else{ ?>
-                <figure style="background-color:white;">
+                <figure >
                     <div class="content-contacto">
                         <div class="SobreContacto"></div>
                         <p id="mailp"><?php echo($v["email"]) ?></p>
@@ -456,6 +456,14 @@
           $(this).css('z-index', -1000);
         });
       }, 1000);
+
+
+      $(".integrantes").hover(function() {
+          $(this).find('.content-contacto').animate({opacity:1}, 500);
+      }, function() {
+         $(this).find('.content-contacto').animate({opacity:0}, 500);
+      });
+
     });
     </script>
 </body>

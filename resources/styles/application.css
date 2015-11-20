@@ -2616,7 +2616,7 @@ EQUIPO
 	position:relative;
 	background-color:#30813c;
 	height:195px;
-	}
+}
 
 
 
@@ -2632,7 +2632,11 @@ EQUIPO
 	z-index:0px;
 	color:#FFF;
 	font-weight:bold;
-	
+	opacity: 0;
+
+}
+.content-contacto:hover{
+	opacity: 1;
 }
 
 .content-contacto p{

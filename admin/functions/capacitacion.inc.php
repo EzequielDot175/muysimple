@@ -49,10 +49,12 @@ function insertCapacitacion(){
 
     $db = Conectar();
 
+
+
     $titulo = $_POST['titulo'];
     $detalle = $_POST['detalle'];
-    $imagen = $_FILES['imagen']['name'];
-    $imagen_2 = $_FILES['imagen_2']['name'];
+    $imagen = (empty($_FILES['imagen']['name']) ? '' : $_FILES['imagen']['name']);
+    $imagen_2 = (empty($_FILES['imagen_2']['name']) ? '' : $_FILES['imagen_2']['name']);
     $sede = $_POST['sede'];
     $duracion = $_POST['duracion'];
     $horarios = $_POST['horarios'];
@@ -62,10 +64,14 @@ function insertCapacitacion(){
     $video1 = substr($video, 32, 11);
    
 
-    move_uploaded_file($_FILES['imagen']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen']['name']);
-     move_uploaded_file($_FILES['imagen_2']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen_2']['name']);
+    if(!empty($_FILES['imagen']['name'])){
+        move_uploaded_file($_FILES['imagen']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen']['name']);
+    }
+    if(!empty($_FILES['imagen_2']['name'])){
+        move_uploaded_file($_FILES['imagen_2']['tmp_name'], Session::get('UPLOAD_PATH')."/".$_FILES['imagen_2']['name']);
+    }
 
-    $sql = "INSERT INTO capacitacion SET titulo='$titulo', detalle='$detalle', imagen='$imagen', imagen_2='$imagen_2', sede='$sede', duracion='$duracion', horarios='$horarios', profesor='$profesor', video='$video1'";
+    $sql = "INSERT INTO capacitacion SET titulo='$titulo', detalle='$detalle', imagen='".$imagen."', imagen_2='".$imagen_2."', sede='$sede', duracion='$duracion', horarios='$horarios', profesor='$profesor', video='$video1'";
     $resultado = $db->query($sql);
     
     if ($resultado){
