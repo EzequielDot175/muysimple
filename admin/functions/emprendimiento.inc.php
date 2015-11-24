@@ -48,13 +48,15 @@ function traerGaleriaEmprendimiento(){
 }
 /* insert */
 function insertEmprendimiento(){
+
+  
+
     $db = Conectar();
     $titulo = $_POST['titulo'];
     $detalle = $_POST['detalle'];
     $video = $_POST['video'];
     $video1 = substr($video, 32, 11);
-    $banner = $_FILES['banner']['name'];
-    move_uploaded_file($_FILES['banner']['tmp_name'], '../upload/'.$_FILES['banner']['name']);
+    $banner = $_POST['banner'];
     $sql = "INSERT INTO emprendimientos SET titulo='$titulo', detalle='$detalle', video='$video1', banner='$banner'";
     $resultado = $db->query($sql);
     
@@ -92,9 +94,11 @@ function editEmprendimiento(){
         <label for="Usuario">Video:</label><br>
         <input class="campo-login" type="text" name="video" value="'.$data->video.'">
         <br>
+       
         <br>
-        <img src="../upload/'.$data->banner.'" width="165"><br>
-        <input id="campo-imagen" type="file" name="banner" value="'.$data->banner.'">
+        <img src="../upload/'.$data->banner.'" width="165" id="preview"><br>
+        <button class="btn" id="launch-image-loader">Seleccionar imagen</button><br><br>
+        <input id="campo-imagen" type="hidden" name="banner" value="'.$data->banner.'"> 
         <br>
         <br>
      
