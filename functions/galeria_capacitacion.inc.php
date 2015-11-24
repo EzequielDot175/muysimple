@@ -12,7 +12,7 @@ function traerGaleriaCapacitacion(){
 
       
 
-        $link = ( $data->capacitacion_id > 0  ?  "./curso_detalle.php?id=".$data->capacitacion_id : '#CapacitarseEsMuySimple' );
+        $link = ( $data->capacitacion_id > 0  ?  "./curso_detalle.php?id=".$data->capacitacion_id : 'capacitacion.php' );
         // echo('<pre>');
 
 
