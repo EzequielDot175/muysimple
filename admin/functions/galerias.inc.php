@@ -91,7 +91,7 @@ function editGaleriaPrincipal(){
 	<br>
 	<img src="../upload/'.$data->imagen.'" width="165" id="preview"><br>
 	<button class="btn" id="launch-image-loader">Seleccionar imagen</button><br><br>
-	<input id="campo-imagen" type="hidden" name="imagen" value="'.$data->imagen.'"> 
+	<input id="image-name" type="hidden" name="imagen" value="'.$data->imagen.'"> 
 	<br>
 	<br>
 
