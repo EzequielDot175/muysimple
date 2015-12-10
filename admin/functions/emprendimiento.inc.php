@@ -98,7 +98,7 @@ function editEmprendimiento(){
         <br>
         <img src="../upload/'.$data->banner.'" width="165" id="preview"><br>
         <button class="btn" id="launch-image-loader">Seleccionar imagen</button><br><br>
-        <input id="campo-imagen" type="hidden" name="banner" value="'.$data->banner.'"> 
+        <input id="image-name" type="hidden" name="banner" value="'.$data->banner.'"> 
         <br>
         <br>
      
