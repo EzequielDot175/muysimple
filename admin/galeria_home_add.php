@@ -27,7 +27,7 @@ require("template/header.php");
 		<input class="campo-login" type="text" name="titulo">
 		<br>
 		<label for="Usuario">Descripcion:</label><br>
-		<textarea class="campo-login-textarea" type="text" name="descripcion"></textarea>
+		<textarea class="campo-login-textarea" type="text" name="descripcion" maxlength="200"></textarea>
 		<br>
 		<br>
 		<input type="hidden" name="imagen"  id="image-name">

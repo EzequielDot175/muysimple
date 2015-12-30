@@ -44,7 +44,7 @@ $data = GCapacitacion::find($_GET['id']);
 	<input class="campo-login" type="text" name="titulo" value="<?php echo $data->titulo; ?>">
 	<br>
 	<label for="Usuario">Descripcion:</label><br>
-	<textarea name="descripcion" class="campo-login-textarea" id="" cols="30" rows="10"><?php echo trim($data->descripcion); ?>
+	<textarea name="descripcion" class="campo-login-textarea" id="" cols="30" rows="10" maxlength="200"><?php echo trim($data->descripcion); ?>
 	</textarea>
 	<br>
 	<br>

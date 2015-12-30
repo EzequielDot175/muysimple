@@ -86,7 +86,7 @@ function editGaleriaPrincipal(){
 	<input class="campo-login" type="text" name="titulo" value="'.$data->titulo.'">
 	<br>
 	<label for="Usuario">Descripcion:</label><br>
-	<textarea name="descripcion" class="campo-login-textarea" id="" cols="30" rows="10">'.$data->descripcion.'</textarea>
+	<textarea name="descripcion" class="campo-login-textarea" id="" cols="30" rows="10" maxlength="200">'.$data->descripcion.'</textarea>
 	<br>
 	<br>
 	<img src="../upload/'.$data->imagen.'" width="165" id="preview"><br>

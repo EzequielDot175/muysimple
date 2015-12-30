@@ -87,7 +87,7 @@ function editEmprendimiento(){
         <input class="campo-login" type="text" name="titulo" value="'.$data->titulo.'">
         <br>
         <label for="Usuario">Detalle:</label><br>
-        <textarea name="detalle" class="campo-login-textarea" id="" cols="30" rows="10">'.$data->detalle.'</textarea>
+        <textarea name="detalle" class="campo-login-textarea" id="" cols="30" rows="10" maxlength="200">'.$data->detalle.'</textarea>
         <br>
         <br>
         

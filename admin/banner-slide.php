@@ -29,7 +29,7 @@ endif;
 				<form action="" name="banner-add" method="post" enctype="multipart/form-data">
 					<label for="banner">Agregar Banner</label><br>
 					<input type="text" name="title" placeholder="Ingrese el titulo del banner"><br>
-					<textarea name="description" cols="30" rows="10"></textarea><br>
+					<textarea name="description" cols="30" rows="10" maxlength="200"></textarea><br>
 					<input type="hidden" name="banner" id="image-name"><br>
 					<br>
 					<img src=""  id="preview" width="100">
@@ -50,7 +50,7 @@ endif;
 					<form name="edit" method="post" enctype="multipart/form-data" class="form-edit">
 						<input type="text" name="edit-name" value="<?php echo $v["title"]; ?>">
 						<br>
-						<textarea name="edit-content" id="" cols="30" rows="10"><?php echo $v["description"]; ?></textarea>
+						<textarea name="edit-content" id="" cols="30" rows="10" maxlength="200"><?php echo $v["description"]; ?> </textarea>
 						<br>
 						<p>
 							Actualizar imagen: 

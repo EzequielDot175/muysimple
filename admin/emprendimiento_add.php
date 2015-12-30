@@ -33,7 +33,7 @@ require("template/header.php");
 		<br>
 
 		<label for="Usuario">Detalle:</label><br>
-		<textarea class="campo-login-textarea" type="text" name="detalle"></textarea>
+		<textarea class="campo-login-textarea" type="text" name="detalle" textarea="200"></textarea>
 		<br>
 		<br>
 	    
